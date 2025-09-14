@@ -6,7 +6,7 @@ Now latest version is 1.3, and you can download it from link below.
 
 ## Pokemon Emerald Imperium Info
 
-- **Game Name:** Pokemon Emerald Imperium  
+- **Game Name:** [Pokemon Emerald Imperium](https://pokemonemeraldimperium.github.io/)
 - **Made By:** iriv24  
 - **Version:** 1.3  
 - **Base Game:** Pokemon Emerald  
