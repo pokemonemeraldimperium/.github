@@ -2,7 +2,7 @@ This is fan-made game and not for profit. It is ROM hack made special for GBA em
 
 Now latest version is 1.3, and you can download it from link below.
 
-👉[Pokemon Emerald imperium Download](https://pokemonemeraldimperium.github.io/)
+👉 [Pokemon Emerald imperium Download](https://pokemonemeraldimperium.github.io/)
 
 ---
 
